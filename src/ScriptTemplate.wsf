@@ -1,0 +1,6 @@
+<job id="ScriptTemplate">
+	<!-- Include the Logging.vbs logging framework -->
+	<script language="VBScript" src="Logging.vbs"/>
+	<!-- Include the actual script that does the real work -->
+	<script language="VBScript" src="ScriptTemplate.vbs"/>
+</job>
